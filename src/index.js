@@ -16,6 +16,5 @@ if (dec>0) {
 	// console.log(mas.sort((a,b) => a-b))
 
 }
-return mas
-}
+return mas.sort((a,b) => a-b)}
 // solveEquation('294 * x^2 - 141195558 * x - 1600964090384736')
